@@ -16,6 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1>Pillar Project</h1>
+        <h1>Initialized</h1>
       </main>
     </>
   )
